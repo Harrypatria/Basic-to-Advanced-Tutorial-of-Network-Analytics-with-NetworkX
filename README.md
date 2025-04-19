@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![NetworkX Logo](https://networkx.org/_images/networkx_logo.svg)
+![NetworkX Logo](https://networkx.org/_static/networkx_logo.svg)
 
 [![GitHub stars](https://img.shields.io/github/stars/Harrypatria/Basic-to-Advanced-Tutorial-of-Network-Analytics-with-NetworkX?style=social)](https://github.com/Harrypatria/Basic-to-Advanced-Tutorial-of-Network-Analytics-with-NetworkX/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Harrypatria/Basic-to-Advanced-Tutorial-of-Network-Analytics-with-NetworkX?style=social)](https://github.com/Harrypatria/Basic-to-Advanced-Tutorial-of-Network-Analytics-with-NetworkX/network/members)
