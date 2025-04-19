@@ -1,0 +1,8 @@
+a b 4
+b a 4
+b c 9
+c d 4
+b e 1
+d b 8
+d e 7
+a d 4
