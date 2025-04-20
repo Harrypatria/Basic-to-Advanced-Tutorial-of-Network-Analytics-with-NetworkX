@@ -51,12 +51,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## 📋 Notebooks Included
-
-1. **[NetworkX_Basics.ipynb](https://colab.research.google.com/drive/1sbuG_dWd465P7FrDGj4qZRsCfvkefgWI?usp=sharing)** - Core NetworkX functionality from basics to advanced techniques.
-2. **[Social_Network_Analysis.ipynb](https://colab.research.google.com/drive/1fH3Cr47aQQCohORrOigvLHDb-FjXLjW6?usp=sharing)** - Analyzing social networks with NetworkX.
-3. **[Biological_Networks.ipynb](https://colab.research.google.com/drive/1_MIxE1voCeeIq_ho2vUL1tSyIC-dBdfa?usp=sharing)** - Exploring biological networks using NetworkX.
-
 ## 📋 Table of Contents
 
 1. **Fundamentals**
