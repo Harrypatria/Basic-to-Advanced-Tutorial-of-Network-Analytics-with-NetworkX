@@ -295,6 +295,8 @@ Contributions are welcome! Here's how you can help:
 
 <div align="center">
 
+*Remember: Every expert was once a beginner. Your programming journey is unique, and we're here to support you every step of the way.*
+
 ## 🌟 Support This Project
 **Follow me on GitHub**: [![GitHub Follow](https://img.shields.io/github/followers/Harrypatria?style=social)](https://github.com/Harrypatria?tab=followers)
 **Star this repository**: [![GitHub Star](https://img.shields.io/github/stars/Harrypatria/Basic-to-Advanced-Tutorial-of-Network-Analytics-with-NetworkX?style=social)](https://github.com/Harrypatria/Basic-to-Advanced-Tutorial-of-Network-Analytics-with-NetworkX/stargazers)
