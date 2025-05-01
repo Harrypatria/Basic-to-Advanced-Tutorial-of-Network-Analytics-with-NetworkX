@@ -294,7 +294,6 @@ Contributions are welcome! Here's how you can help:
 ---
 
 <div align="center">
-
 *Remember: Every expert was once a beginner. Your programming journey is unique, and we're here to support you every step of the way.*
 
 ## 🌟 Support This Project
