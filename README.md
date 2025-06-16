@@ -251,7 +251,6 @@ plt.show()
 
 <details>
 <summary><b>Performance Issues with Large Graphs</b></summary>
-
 When working with large graphs:
 
 ```python
